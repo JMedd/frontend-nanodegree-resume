@@ -1,0 +1,551 @@
+[33mcommit 1b63a1a7493633b994a95b743c3d51debb112589[m
+Author: JMedd <jonny.medd@gmail.com>
+Date:   Wed Feb 22 16:19:48 2017 +0000
+
+    initial commit
+
+[33mcommit 42fe3ec6cfa6b769e7c8a30ed0981e730d443ad5[m
+Merge: 61bc41f 7727e7c
+Author: Cameron Pittman <cameron.w.pittman@gmail.com>
+Date:   Thu Dec 29 10:24:38 2016 -0800
+
+    Merge pull request #233 from susansmith/patch-1
+    
+    update style.css
+
+[33mcommit 7727e7c0cba61420becd95c50f65d3a12a76d36b[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Mon Oct 31 03:42:17 2016 -0400
+
+    update style.css
+    
+    Add missing spaces after colons in property: value pairs.
+
+[33mcommit 61bc41faaadb7edc35761868e885d650a1f07db5[m
+Merge: e92f7f1 79c7986
+Author: Johnathan Mavroudis <johnathan@udacity.com>
+Date:   Tue Jul 19 10:31:34 2016 -0700
+
+    Merge pull request #182 from zenvercoder/master
+    
+    move script tags to bottom
+
+[33mcommit e92f7f15e2ed2e3020da5331704969517d2a9e8b[m
+Author: Cameron Pittman <cameron.w.pittman@gmail.com>
+Date:   Tue Jul 19 12:15:40 2016 -0500
+
+    Update README.md
+
+[33mcommit 823b270b3fbf4092b935ea762ff194a8c9f3f408[m
+Author: Cameron Pittman <cameron.w.pittman@gmail.com>
+Date:   Tue Jul 19 11:51:02 2016 -0500
+
+    Update README.md
+
+[33mcommit 07264066eecdd97ac8cc38ce6fc0bf86cefa58e5[m
+Merge: 48dda97 80c6a1b
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Tue Jul 19 11:45:31 2016 -0500
+
+    Merge branch 'master' of github.com:udacity/frontend-nanodegree-resume
+
+[33mcommit 48dda97a0a7da140f915e88e2589ea22715f18dc[m
+Merge: 1ed1e3c 7c381b4
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Tue Jul 19 11:45:27 2016 -0500
+
+    merges conflicts
+
+[33mcommit 80c6a1b43f99f6165f7250de8d0181345df9e341[m
+Merge: 7c381b4 d7762c1
+Author: Johnathan Mavroudis <johnathan@udacity.com>
+Date:   Tue Jul 19 09:43:34 2016 -0700
+
+    Merge pull request #186 from cleverjam/master
+    
+    Add flex-column class to display skills according to pictured example
+
+[33mcommit 1ed1e3c2211d0e4e169ad4c2f04ed28842a24023[m
+Merge: 2568049 68757a4
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Tue Jul 19 11:42:42 2016 -0500
+
+    updates README to match lesson name changes in the classroom
+
+[33mcommit 7c381b4aa57f7a7d4469b97425ddf6c47d27244a[m
+Author: Cameron Pittman <cameron.w.pittman@gmail.com>
+Date:   Tue Jul 19 11:26:05 2016 -0500
+
+    Update README.md
+
+[33mcommit f5f53bd08af185ff56df240339af82f1671ca358[m
+Merge: 9280a74 83da493
+Author: Cameron Pittman <cameron.w.pittman@gmail.com>
+Date:   Tue Jul 19 11:22:53 2016 -0500
+
+    Merge pull request #190 from Devinsuit/master
+    
+    Update the viewport metatag in index.html #139
+
+[33mcommit 83da493eb674042b7770f6465b1d89537180d893[m
+Author: Devinsuit <r.poryvaev@hotmail.com>
+Date:   Mon Jul 18 18:19:00 2016 +0300
+
+    Update the viewport metatag in index.html #139
+
+[33mcommit 9280a74ed8b0899c207fc7c72b4abfda95ac97a5[m
+Merge: ac414fd 2f66b03
+Author: Heidi Kasemir <heidi.kasemir@gmail.com>
+Date:   Fri Jul 8 09:56:53 2016 -0700
+
+    Merge branch 'udayanshevade-add-var'
+
+[33mcommit 2f66b039601750482e40564742c995701619d280[m
+Merge: ac414fd 2bc0b98
+Author: Heidi Kasemir <heidi.kasemir@gmail.com>
+Date:   Fri Jul 8 09:55:28 2016 -0700
+
+    merging PR
+
+[33mcommit d7762c1ebda80f3368f3625c9f0edec5a581adf0[m
+Author: Jaime Liz <lizjaime@gmail.com>
+Date:   Thu Jul 7 17:18:21 2016 -0500
+
+    Add flex-column class to display skills according to pictured example
+
+[33mcommit ac414fdb9a773da02a8afbc3c6c357a1489dc53c[m
+Author: Heidi Kasemir <heidi.kasemir@gmail.com>
+Date:   Tue Jul 5 21:21:44 2016 -0700
+
+    fix index.html and clarify schema
+
+[33mcommit 95191e61b5ad76735c918193e061ecbefb341315[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Sat Jun 25 15:10:49 2016 -0400
+
+    Update README.md
+
+[33mcommit 79c798682e2752cca7d5bf505a09a6c1289c2d79[m
+Author: Lisa Hull <lisa@jchull.com>
+Date:   Sat Jun 25 12:56:32 2016 -0600
+
+    move script tags to bottom
+
+[33mcommit 6a94eeb1860a3dd20f20a4afbeb6e7f7402f22a7[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jun 24 15:56:41 2016 -0400
+
+    Update README.md
+
+[33mcommit 6799f5431b9847b42394ac1f15ae33fd4cf4fd73[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jun 24 14:52:44 2016 -0400
+
+    Update index.html
+    
+    Update language on Google Map API Key.
+
+[33mcommit 6bc4a62dfeb4f9eec03bbbb619b8a0bd29b2cdd0[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jun 24 14:49:10 2016 -0400
+
+    Update README.md
+    
+    Update language on getting Google Maps API
+
+[33mcommit 6a761e4862e2f2d4a7d1119201dd47b260a20c0a[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jun 24 05:06:24 2016 -0400
+
+    Update README.md
+
+[33mcommit 6e5dde9051e2d53ded311b39583fdbc93f5f4222[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jun 24 05:03:03 2016 -0400
+
+    Update README.md
+
+[33mcommit ca5f6e23c03f69176ed3d25cac5ddfed52e2cc7a[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jun 24 04:57:20 2016 -0400
+
+    Update index.html
+    
+    Added comment and placeholder for Google Maps API Key.
+
+[33mcommit c24f6e7adebee2803bead131484b5494e4800ccc[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jun 24 04:51:59 2016 -0400
+
+    Update README.md
+
+[33mcommit 10748a35f3bc39b073ee91572f0ec46354be338a[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jun 24 04:35:58 2016 -0400
+
+    Update README.md
+
+[33mcommit e28b3ce39d2571b18c32e6eb09c4026ade4aba44[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jun 24 04:34:48 2016 -0400
+
+    Update README.md
+    
+    Add info about Google Maps API key which is now required.
+
+[33mcommit cecf32aadcd5ce8ee530a0a1aa38066b19a3b51f[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Wed Jun 22 15:54:29 2016 -0400
+
+    Update README.md
+
+[33mcommit b82461a6db2c6e18bc24b0ecbfde2afefb544631[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Wed May 11 19:44:50 2016 -0400
+
+    Update README.md
+
+[33mcommit 7f7451981499ddc2ec0e7c3a2ae314bc91c705b5[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Wed May 11 19:37:47 2016 -0400
+
+    Update README.md
+
+[33mcommit 1fdc4481493ddff36ef948385e4ef45c78dcdea7[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Wed May 11 19:34:35 2016 -0400
+
+    Update README.md
+
+[33mcommit 73c4374a9e18b379ba9d61d8b982bdd1c9f095cd[m
+Merge: 0772b9a 9a1a9b2
+Author: Johnathan Mavroudis <johnathan@udacity.com>
+Date:   Mon Apr 11 10:52:21 2016 -0700
+
+    Merge pull request #158 from tiernan-uda/int-button
+    
+    Make internationlize button call inName with argument
+
+[33mcommit 9a1a9b286cdee451d6bc668f02089e94a7fbee0a[m
+Author: Tiernan <tiernanc@gmail.com>
+Date:   Tue Apr 5 19:31:46 2016 -0700
+
+    Make internationlize button call inName with argument
+    
+    Pull name from DOM and call inName with name as argument
+
+[33mcommit 0772b9a19c3b7c2ad505a56e869b7a0e69232378[m
+Author: Heidi Kasemir <heidi.kasemir@gmail.com>
+Date:   Thu Mar 24 10:18:45 2016 -0700
+
+    updates to match project description in classroom
+
+[33mcommit 7ead1dd2ce4d4393f7bd9fe316154035785422ea[m
+Author: Heidi Kasemir <heidi.kasemir@gmail.com>
+Date:   Mon Mar 14 14:43:13 2016 -0700
+
+    remove logClicks function from reqs
+
+[33mcommit 68757a457736bd94b3d644b3fd47370435c83dd1[m
+Author: Udayan Shevade <udayan.shevade@gmail.com>
+Date:   Mon Mar 7 01:06:02 2016 -0800
+
+    Clarify comments on code pertaining to JS Basics course quizzes
+
+[33mcommit 2bc0b98fefaa8a6cdff85a5dd1cf16051ead89c0[m
+Author: Udayan Shevade <udayan.shevade@gmail.com>
+Date:   Sun Mar 6 23:41:14 2016 -0800
+
+    Add 'var' to the clickLocations variable definition
+
+[33mcommit 9aa8217fd2624b5dadfef37fd92e75762343da0f[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Mon Dec 21 20:06:32 2015 -0500
+
+    Update helper.js
+    
+    Use forEach rather than for to iterate over arrays as indicated in the Udacity FEND Style Guide.
+    Added missing semicolons.
+
+[33mcommit b31a168cdd682b8559baeea576ae04fbdfc0b8fb[m
+Merge: cd340c4 ba52166
+Author: Michael Wales <webmaster@michaelwales.com>
+Date:   Thu Dec 3 15:32:30 2015 -0800
+
+    Merge pull request #85 from dbhkhk/my
+    
+    style: change <hr/> to <hr>
+
+[33mcommit cd340c4f274fb93d4fe7881a1d3d7d78ad991511[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Nov 6 17:32:42 2015 -0500
+
+    Update README.md
+    
+    Update JSON to JSON objects. Clarify that schema must be followed exactly for each JSON object.
+
+[33mcommit ba5216634564a8ab2b58d133f822eafa98fd2e56[m
+Author: Brody <rufengch@gmail.com>
+Date:   Wed Sep 23 16:15:02 2015 -0700
+
+    style: change <hr/> to <hr>
+
+[33mcommit 1a6a2696af0107d07afd3c54951f5076329cb0bd[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Tue Jul 28 16:48:57 2015 -0400
+
+    Update index.html
+    
+    Fixed typo on line 136.
+
+[33mcommit ca0f0bb757f37f086f2f2c838218224af87ad87b[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Sat Jul 25 09:35:38 2015 -0400
+
+    Update README.md
+    
+    Update map comment
+
+[33mcommit 8144913c0c08628c7b06da78e7310b8d5509528a[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Sat Jul 25 09:33:15 2015 -0400
+
+    Update README.md
+    
+    Augment instructions for inclusion of Google Map.
+
+[33mcommit a4080726d5bfdec40165750640bb42b65b44ef1c[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Sat Jul 25 09:27:16 2015 -0400
+
+    Update helper.js
+    
+    Update map comment.
+
+[33mcommit 3b9b905b16738d60124f9ea2caeaf23731c6f9a5[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Sat Jul 25 09:16:47 2015 -0400
+
+    Update style.css
+    
+    Fix map
+
+[33mcommit a866cef1517adb183178f6897e31faa5ed3116ef[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Sat Jul 25 09:02:33 2015 -0400
+
+    Update index.html
+    
+    Correcting map mismap.
+
+[33mcommit 8599733d1ea776e3bbe28fe18b248f680e8ca2ce[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Sat Jul 25 09:01:32 2015 -0400
+
+    Update helper.js
+    
+    Correcting map mismap.
+
+[33mcommit b5c0d11d55b68d4fd014b06e7846de8027ad28bd[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jul 24 17:30:08 2015 -0400
+
+    Update helper.js
+
+[33mcommit 50de220e99ea9bd4bc8f8b1b02784a7a51e46fa4[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jul 24 17:29:15 2015 -0400
+
+    Update helper.js
+
+[33mcommit 4f05c71f5ffbf033efda0150fdeb543acce38ee1[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jul 24 17:02:02 2015 -0400
+
+    Update README.md
+
+[33mcommit a37cfeefeb942e507a6af6d36b5a92a682ede5ce[m
+Author: Susan Smith <susan.smith@udacity.com>
+Date:   Fri Jul 24 17:01:06 2015 -0400
+
+    Update helper.js
+
+[33mcommit 2568049bd7e491ffb6e2641c8b6a6eaaa631dfb1[m
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Wed Jul 1 11:26:32 2015 -0700
+
+    fix(syntax): updated syntax to meet Udacity style guide
+
+[33mcommit 603c0b77ad8f538d824d924add420bc36bb3e2c8[m
+Merge: bdfe030 12524ac
+Author: Durant Schoon <durant@udacity.com>
+Date:   Mon Mar 2 14:53:27 2015 -0800
+
+    Merge pull request #29 from udacity/fixSpelling
+    
+    change HTMLWelcomeMsg -> HTMLwelcomeMsg
+
+[33mcommit 12524ac61e500344bd523e5f987cf6cdfe1a64b1[m
+Author: Durant Schoon <durant@udacity.com>
+Date:   Mon Mar 2 14:43:45 2015 -0800
+
+    change HTMLWelcomeMsg -> HTMLwelcomeMsg
+    
+    For consistency (a student flagged this).
+
+[33mcommit bdfe030adaa38a8482183f838719263f6efb9c75[m
+Merge: c8540b8 5272b6b
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Thu Jan 8 16:23:52 2015 -0800
+
+    Merge branch 'master' of github.com:udacity/frontend-nanodegree-resume
+
+[33mcommit c8540b84f0304b9413d2c9b48c83e3b1283371a1[m
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Thu Jan 8 16:23:28 2015 -0800
+
+    Reverted helper.js click handler for the internationalize button so that it no longer takes a parameter
+
+[33mcommit 5272b6b7817b84c510bc5eecec2dc1d441c14708[m
+Author: Cameron Pittman <cameron.w.pittman@gmail.com>
+Date:   Thu Jan 8 14:58:58 2015 -0800
+
+    Update README.md
+    
+    Fixed a typo in the description of the `bio` object.
+
+[33mcommit b2df7f5b81f458ebffe0363ad8eb4a9d6fab384f[m
+Author: Cameron Pittman <cameron.w.pittman@gmail.com>
+Date:   Thu Dec 18 23:10:09 2014 -0800
+
+    Update README.md
+
+[33mcommit 91a75e578646c947cdc3bd180fc19b1a6fab0d73[m
+Author: Cameron Pittman <cameron.w.pittman@gmail.com>
+Date:   Thu Dec 18 23:06:06 2014 -0800
+
+    Update README.md
+
+[33mcommit 7ac037abccec2efb23bb0fcc1e3eec28192dc4ae[m
+Author: Cameron Pittman <cameron.w.pittman@gmail.com>
+Date:   Thu Dec 18 23:03:23 2014 -0800
+
+    Update README.md
+
+[33mcommit 563a0cf7513c96ea3b2cdd0bbd148c07067512d1[m
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Fri Dec 12 13:37:18 2014 -0800
+
+    <fix> update G Maps API to use lat() and lng() methods instead of private variables
+
+[33mcommit 715481c69f7d46c954543e4ff8c5a15e76b6d4d9[m
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Thu Dec 11 10:49:40 2014 -0800
+
+    <fix> changed longitude property in createMapMarker() to reflect changes to the G Maps API
+
+[33mcommit 612a4557c52b777e36367846ef328ec6488ef848[m
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Sun Dec 7 23:36:58 2014 -0800
+
+    <add> README.md
+
+[33mcommit 4f05ea929c29a68de97acc1f0602f9f3a4d7e006[m
+Merge: d5ab48f bcabf74
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Sun Dec 7 10:07:35 2014 -0800
+
+    Merge branch 'master' of https://github.com/udacity/frontend-nanodegree-resume
+
+[33mcommit d5ab48fe1196a895f9a92b39b9a31ab0f928f334[m
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Sun Dec 7 10:07:15 2014 -0800
+
+    <fix> resume bug fixes
+
+[33mcommit bcabf74c956c0180b70bead62fbe395025e75687[m
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Sun Dec 7 09:47:55 2014 -0800
+
+    <fix> minor bug fixes
+
+[33mcommit 0373be649a60d67931f51b5267fafb53256da2c6[m
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Sun Dec 7 09:47:55 2014 -0800
+
+    <fix> minor bug fixes
+
+[33mcommit b118431a246dc6d4f3432ac5b15549a9a45fb8ac[m
+Merge: 917f7dd bf8173a
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Sun Dec 7 09:46:09 2014 -0800
+
+    merged JF <fix> bringing code up to Udacity standards
+
+[33mcommit a365f2d4b099a4752d1e7951db5dfaf52fb8cf49[m
+Merge: 36a88a8 1307ded
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Sun Dec 7 09:46:09 2014 -0800
+
+    merged JF <fix> bringing code up to Udacity standards
+
+[33mcommit 917f7dd4e2edbf91a41ca44ba3b3b66baea19131[m
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Sat Nov 29 22:03:33 2014 -0800
+
+    bug fixes. nicer css.
+
+[33mcommit 36a88a83ef065d6ff76782638e7a3517d8c5338e[m
+Author: cameronwp <cameron.w.pittman@gmail.com>
+Date:   Sat Nov 29 22:03:33 2014 -0800
+
+    bug fixes. nicer css.
+
+[33mcommit bf8173a6c39bd19d40a0148ce1348db7c5758746[m
+Author: Jacques Favreau <jacques@udacity.com>
+Date:   Mon Nov 10 19:16:46 2014 -0600
+
+    Fix(JS): Fix linting, vars,
+    
+    - Add missing semicolons.
+    - Remove extra semicolons.
+    - Add missing var declarations.
+    - Remove trailing space.
+    - Remove object literal quotes.
+    - Make quotes consistently used.
+
+[33mcommit 1307ded6f619d330e53322ebad998fe6a8ce06c7[m
+Author: Jacques Favreau <jacques@udacity.com>
+Date:   Mon Nov 10 19:16:46 2014 -0600
+
+    Fix(JS): Fix linting, vars,
+    
+    - Add missing semicolons.
+    - Remove extra semicolons.
+    - Add missing var declarations.
+    - Remove trailing space.
+    - Remove object literal quotes.
+    - Make quotes consistently used.
+
+[33mcommit 8f41365045622643078c9899fd1e2dac3df40064[m
+Author: Jacques Favreau <jacques@udacity.com>
+Date:   Mon Nov 10 19:12:16 2014 -0600
+
+    Fix(HTML): Fix indentation, style, and validation problems.
+    
+    - Closes HTML tag (currently missing)
+    - Adds title tag, and charset meta. Now is valid HTML.
+    - Fixes indentation
+    - Fix getElementById misunderstanding. Was set as ‘== undefined’ .
+    getElementById returns a null, not undefined.
+    - Fix javascript style for consistency.
+    - Add comment about loading the page styles to match the rest of the
+    page.
+
+[33mcommit 4521d32563ae9b8b4063e609a8bc5196a076ee21[m
+Author: Jacques Favreau <jacques@udacity.com>
+Date:   Mon Nov 10 19:12:16 2014 -0600
+
+    Fix(HTML): Fix indentation, style, and validation problems.
+    
+    
