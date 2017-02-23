@@ -9,6 +9,3 @@ $('#header').append(formattedName);
 var role = "CRM Developer";
 var formattedRole = HTMLheaderRole.replace("%data%", role);
 $('#header').prepend(formattedRole);
-
-
-
